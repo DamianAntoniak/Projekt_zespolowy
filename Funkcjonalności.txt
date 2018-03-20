@@ -46,6 +46,7 @@ Użytkownik może:
 –	polecić aplikację znajomym
 –	wyświetlić informacje o licencjach, polityce prywatności i warunkach usługi
 
+
 Administrator może:
 –	zalogować się do aplikacji
 –	wylogować się z aplikacji
