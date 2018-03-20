@@ -68,7 +68,6 @@ Administrator może:
 –	dostosować opcje dotyczące otrzymywania powiadomień
 –	ustawiać filtry wyszukiwania użytkowników
 –	wyświetlać publiczne profile innych użytkowników
-–	
 
 
 WYMAGANIA NIEFUNKCJONALNE
