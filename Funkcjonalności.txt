@@ -42,6 +42,7 @@ Użytkownik może:
 –	wysłać wiadomość do centrum pomocy
 –	ocenić innych użytkowników
 –	zarekomendować innych użytkowników
+–	wyświetlić listę zarekomendowanych użytkowników
 –	ocenić aplikację
 –	polecić aplikację znajomym
 –	wyświetlić informacje o licencjach, polityce prywatności i warunkach usługi
