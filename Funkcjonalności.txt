@@ -1,0 +1,93 @@
+﻿FUNKCJONALNOŚCI
+
+Użytkownik może:
+–	zarejestrować się w systemie
+–	stworzyć profil:
+	•	studenta, który może:
+		o	wybrać przedmioty, z których chce się uczyć w grupie
+		o	wybrać przedmioty, z których chce pobierać korepetycje
+		o	wyszukać studentów do wspólnej nauki w grupie z poszczególnych przedmiotów
+		o	wyszukać studentów do wspólnych korepetycji w grupie z poszczególnych przedmiotów
+		o	wyszukać korepetytorów z poszczególnych przedmiotów
+	•	korepetytora, który może:
+		o	wybrać przedmioty, jakich chce nauczać
+		o	wyszukać studentów chętnych do nauki z poszczególnych przedmiotów
+		o	wyszukać grupy studentów chętnych do nauki z poszczególnych przedmiotów
+–	zalogować się do aplikacji
+–	wylogować się z aplikacji
+–	wyświetlić własne dane osobowe
+–	edytować własne dane osobowe
+–	ukryć własne dane osobowe
+–	usunąć własne dane osobowe
+–	wyświetlić listę przedmiotów
+–	dodać nowe przedmioty do listy
+–	wybrać zakres materiału z poszczególnych przedmiotów
+–	zakupić pakiet premium, który pozwala:
+	•	wyświetlić listę innych użytkowników, którzy chcą nawiązać kontakt
+	•	wybrać nielimitowaną ilość użytkowników dziennie, z którymi chce nawiązać kontakt
+–	wybrać formę płatności za pakiet premium
+–	zawiesić własne konto
+–	ustawić status konta jako prywatne lub publiczne
+–	usunąć własne konto
+–	ustawiać filtry wyszukiwania użytkowników
+–	wyświetlać publiczne profile innych użytkowników
+–	wybrać do 50 użytkowników dziennie, z którymi chce nawiązać kontakt
+–	odrzucić użytkowników, z którymi nie chce nawiązać kontaktu
+–	wysyłać wiadomości do innych użytkowników
+–	odczytywać wiadomości od innych użytkowników
+–	zablokować innych użytkowników
+–	zgłosić innych użytkowników za niestosowanie się do warunków usługi
+–	wyciszyć powiadomienia od poszczególnych użytkowników
+–	dostosować opcje dotyczące otrzymywania powiadomień
+–	wysłać wiadomość do centrum pomocy
+–	ocenić innych użytkowników
+–	zarekomendować innych użytkowników
+–	ocenić aplikację
+–	polecić aplikację znajomym
+–	wyświetlić informacje o licencjach, polityce prywatności i warunkach usługi
+
+Administrator może:
+–	zalogować się do aplikacji
+–	wylogować się z aplikacji
+–	wyświetlić własne dane osobowe
+–	edytować własne dane osobowe
+–	ukryć własne dane osobowe
+–	usunąć własne dane osobowe
+–	wyświetlić listę przedmiotów
+–	dodać nowe przedmioty do listy
+–	dodać użytkownika
+–	zatwierdzić konto użytkownika
+–	usunąć użytkownika
+–	wyświetlić listę zgłoszonych użytkowników
+–	udzielić ostrzeżenia użytkownikowi
+–	zbanować użytkownika
+–	wyświetlić oceny aplikacji
+–	wyświetlić wiadomości przesłane do centrum pomocy
+–	odpowiedzieć na wiadomości przesłane do centrum pomocy
+–	wyciszyć powiadomienia od poszczególnych użytkowników
+–	dostosować opcje dotyczące otrzymywania powiadomień
+–	ustawiać filtry wyszukiwania użytkowników
+–	wyświetlać publiczne profile innych użytkowników
+–	
+
+
+WYMAGANIA NIEFUNKCJONALNE
+–	serwer musi zapewniać możliwość jednoczesnej obsługi 100 użytkowników
+–	serwer musi przechowywać dane osobowe w formie zaszyfrowanej
+–	serwer musi być dostępny przez 99,9% czasu 24/7
+–	klient musi być możliwy do uruchomienia na:
+	•	Google Chrome – wersja 65.0.3325.162 lub wyższa
+	•	Mozilla Firefox – wersja 58.0.2 lub wyższa
+	•	Android – wersja 5.0 lub wyższa
+–	system ma być wykonany w języku Java
+
+
+ROZEZNANIE NA RYNKU
+
+Aplikacje:
+–	Tutoring: Private English lesson – Darmowa pierwsza lekcja, lekcje online, gdziekolwiek/kiedykolwiek dostępni nauczyciele 24/7. Kolekcja książek (materiałów) do nauki.
+
+Nasza aplikacja:
+–	Ocena użytkowników
+–	Rekomendacja użytkowników
+–	Opcja na wyszukiwanie zajęć łączonych (w grupie tj. 2+os)
